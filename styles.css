@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    background-color: #3c4a75;
+    font-family: 'EB Garamond', serif;
+}
+h1{
+    font-size: 5rem;
+    text-shadow: 3px 0 #F74C83;
+    
+}
+
+h2{
+    font-weight: 900;
+}
+.container{
+    margin: 5% auto;
+}
+.piano{
+    font-family: 'EB Garamond', serif;
+    border: 5px solid #000;
+    height: 600px;
+    width: 100px;
+    font-weight: 900;
+    font-size: 5rem;
+    outline: none;
+    border-radius: 15px;
+    margin: 5px;
+    text-shadow: 3px 0 #464d51;
+}
+
+.a{
+    background-image: url(images/Ekran\ Alıntısı.JPG);
+}
+.s{
+    background-image: url(images/Ekran\ Alıntısı.JPG);
+}
+.d{
+    background-image: url(images/Ekran\ Alıntısı.JPG);
+}
+.f{
+    background-image: url(images/Ekran\ Alıntısı.JPG);
+}
+.j{
+    background-image: url(images/Ekran\ Alıntısı.JPG);
+}
+.k{
+    background-image: url(images/Ekran\ Alıntısı.JPG);
+}
+.l{
+    background-image: url(images/Ekran\ Alıntısı.JPG);
+}
+.piano-logo{
+    width: 64px;
+}
+.pressed {
+    box-shadow: 0 3px 4px 0 #c2ecfa;
+    opacity: 0.5;
+  }
+
+  .container-note{
+    display: inline-block;
+  }
